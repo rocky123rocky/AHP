@@ -232,7 +232,7 @@ Task Progress → DP Progress → Objective Progress → Phase Progress
 ## Technology Stack
 
 ### Core Technologies
-- **Python 3.8+**: Programming language
+- **Python 3.8+**: Programming language (3.12+ recommended, see requirements.txt for details)
 - **Streamlit 1.28.0**: Web framework
 - **Pandas 2.1.1**: Data manipulation
 - **Plotly 5.17.0**: Interactive visualizations
@@ -279,8 +279,29 @@ streamlit run app.py
 streamlit run app.py --server.port 8501 --server.address 0.0.0.0
 ```
 
-### Production (Multi-User - Not Recommended)
-Consider deploying on Streamlit Cloud or using authentication middleware
+### Production (Multi-User)
+**Note**: Current implementation not optimized for concurrent users.
+
+For production multi-user deployment, consider:
+1. **Streamlit Cloud**: Deploy at https://streamlit.io/cloud
+   - Upload repository to GitHub
+   - Connect to Streamlit Cloud
+   - Configure secrets for PINs
+   
+2. **Docker Deployment**:
+   ```dockerfile
+   FROM python:3.12-slim
+   WORKDIR /app
+   COPY requirements.txt .
+   RUN pip install -r requirements.txt
+   COPY . .
+   CMD ["streamlit", "run", "Ver 6 23 Oct 25 - for CI/app.py"]
+   ```
+
+3. **Authentication Middleware**: Consider integrating proper authentication:
+   - OAuth2 providers (Google, Microsoft)
+   - LDAP/Active Directory
+   - Custom authentication service
 
 ## Future Enhancement Ideas
 
@@ -298,9 +319,7 @@ See [QUICKSTART.md](QUICKSTART.md) for development environment setup.
 
 ## Credits
 
-**Conceptualized by**: Capt Swaminathan  
-**Software Designed by**: Cdr Kaki Rohit Raju  
-**Organization**: DSSC Wellington • Naval Wing
+Credits and team information are managed within the application through the Team Management interface in the Control Panel.
 
 ---
 
