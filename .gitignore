@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Temporary files
+*.tmp
+tmp_*.xlsx
+*_export.json
+*_export.xlsx
+*_export.zip
+
+# Archive directory (optional - uncomment if you don't want to track archives)
+# Ver 6 23 Oct 25 - for CI/archive/
+
+# Log files
+*.log
