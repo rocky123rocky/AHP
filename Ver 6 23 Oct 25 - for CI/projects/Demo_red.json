@@ -1,0 +1,1390 @@
+{
+  "metadata": {
+    "name": "",
+    "description": "",
+    "status": "active",
+    "created": "",
+    "modified": "2025-10-06T12:23:34.732124"
+  },
+  "phases": [
+    {
+      "Name": "Deployment"
+    },
+    {
+      "Name": "Shaping Ops"
+    },
+    {
+      "Name": "Offensive"
+    },
+    {
+      "Name": "Stabilisation"
+    }
+  ],
+  "objectives": [
+    {
+      "Name": "Degrade BLUE war-waging capability to ensure freedom of movement of own trade and project RED as dominant force in North and Central Arabian Sea.",
+      "Phase": "Deployment"
+    },
+    {
+      "Name": "Operational dominance in choke points and maritime zones to safeguard RED SLOC.",
+      "Phase": "Deployment"
+    },
+    {
+      "Name": "Alter the status quo at land borders and secure own maritime interests, territorial integrity and sovereignty.",
+      "Phase": "Deployment"
+    },
+    {
+      "Name": "Degrade BLUE war-waging capability to ensure freedom of movement of own trade and project RED as dominant force in North and Central Arabian Sea.",
+      "Phase": "Shaping Ops"
+    },
+    {
+      "Name": "Alter the status quo at land borders and secure own maritime interests, territorial integrity and sovereignty.",
+      "Phase": "Shaping Ops"
+    },
+    {
+      "Name": "Degradation of economic potential of BLUE by attacking VA/VPS in Gujarat and protect own VA/VPs.",
+      "Phase": "Shaping Ops"
+    },
+    {
+      "Name": "Degradation of economic potential of BLUE by attacking VA/VPS in Gujarat and protect own VA/VPs.",
+      "Phase": "Offensive"
+    },
+    {
+      "Name": "Operational dominance in choke points and maritime zones to safeguard RED SLOC.",
+      "Phase": "Offensive"
+    },
+    {
+      "Name": "Degrade BLUE war-waging capability to ensure freedom of movement of own trade and project RED as dominant force in North and Central Arabian Sea.",
+      "Phase": "Offensive"
+    },
+    {
+      "Name": "Degradation of economic potential of BLUE by attacking VA/VPS in Gujarat and protect own VA/VPs.",
+      "Phase": "Stabilisation"
+    }
+  ],
+  "dps": [
+    {
+      "DP No": "1",
+      "Name": "Deny BLUE achievement of Sea Control and Favourable Air Situation in AO",
+      "Objective": "Degrade BLUE war-waging capability to ensure freedom of movement of own trade and project RED as dominant force in North and Central Arabian Sea."
+    },
+    {
+      "DP No": "3",
+      "Name": "Protect RED SLOC and inflow of trade",
+      "Objective": "Operational dominance in choke points and maritime zones to safeguard RED SLOC."
+    },
+    {
+      "DP No": "4",
+      "Name": "Protect HVUS arriving from YELLOW",
+      "Objective": "Operational dominance in choke points and maritime zones to safeguard RED SLOC."
+    },
+    {
+      "DP No": "8",
+      "Name": "Provide AD protection to RED Port (Karachi).",
+      "Objective": "Alter the status quo at land borders and secure own maritime interests, territorial integrity and sovereignty."
+    },
+    {
+      "DP No": "9",
+      "Name": "Deny movement to BLUE land forces in Sir Creek and Cutch/Sindh",
+      "Objective": "Alter the status quo at land borders and secure own maritime interests, territorial integrity and sovereignty."
+    },
+    {
+      "DP No": "11",
+      "Name": "Insert SF into BLUE land",
+      "Objective": "Alter the status quo at land borders and secure own maritime interests, territorial integrity and sovereignty."
+    },
+    {
+      "DP No": "5",
+      "Name": "Achieve and maintain MDA in AO/AI",
+      "Objective": "Degrade BLUE war-waging capability to ensure freedom of movement of own trade and project RED as dominant force in North and Central Arabian Sea."
+    },
+    {
+      "DP No": "6",
+      "Name": "Protect RED air assets including air bases, radar sites and a/c",
+      "Objective": "Alter the status quo at land borders and secure own maritime interests, territorial integrity and sovereignty."
+    },
+    {
+      "DP No": "7",
+      "Name": "Ensure seamless functioning of RED SBS Ground stations (Karachi and Islamabad)",
+      "Objective": "Alter the status quo at land borders and secure own maritime interests, territorial integrity and sovereignty."
+    },
+    {
+      "DP No": "2",
+      "Name": "Protect VA/VPs in Sindh region",
+      "Objective": "Degradation of economic potential of BLUE by attacking VA/VPS in Gujarat and protect own VA/VPs."
+    },
+    {
+      "DP No": "12",
+      "Name": "Destroy BLUE MMCBs and AD batteries in Gujarat",
+      "Objective": "Degradation of economic potential of BLUE by attacking VA/VPS in Gujarat and protect own VA/VPs."
+    },
+    {
+      "DP No": "13",
+      "Name": "Degrade BLUE VA/ VPs in Gujarat region",
+      "Objective": "Degradation of economic potential of BLUE by attacking VA/VPS in Gujarat and protect own VA/VPs."
+    },
+    {
+      "DP No": "15",
+      "Name": "Destroy BLUE MVS carrying critical cargo",
+      "Objective": "Operational dominance in choke points and maritime zones to safeguard RED SLOC."
+    },
+    {
+      "DP No": "23",
+      "Name": "Interdict BLUE MVs in DWC",
+      "Objective": "Operational dominance in choke points and maritime zones to safeguard RED SLOC."
+    },
+    {
+      "DP No": "14",
+      "Name": "Disrupt BLUE trade transiting through northern Arabian Sea and Strait of Hormuz",
+      "Objective": "Operational dominance in choke points and maritime zones to safeguard RED SLOC."
+    },
+    {
+      "DP No": "24",
+      "Name": "Neutralise BLUE Surface Combatants",
+      "Objective": "Degrade BLUE war-waging capability to ensure freedom of movement of own trade and project RED as dominant force in North and Central Arabian Sea."
+    },
+    {
+      "DP No": "17",
+      "Name": "Achieve and maintain MDA in AO/AI",
+      "Objective": "Degrade BLUE war-waging capability to ensure freedom of movement of own trade and project RED as dominant force in North and Central Arabian Sea."
+    },
+    {
+      "DP No": "16",
+      "Name": "Neutralise/ Destroy BLUE airfields at Bhuj, Jamnagar",
+      "Objective": "Degradation of economic potential of BLUE by attacking VA/VPS in Gujarat and protect own VA/VPs."
+    },
+    {
+      "DP No": "19",
+      "Name": "Achieve and maintain MDA in AO/AI",
+      "Objective": "Degrade BLUE war-waging capability to ensure freedom of movement of own trade and project RED as dominant force in North and Central Arabian Sea."
+    },
+    {
+      "DP No": "20",
+      "Name": "Neutralise/ Destroy BLUE airfields at Mumbai",
+      "Objective": "Degrade BLUE war-waging capability to ensure freedom of movement of own trade and project RED as dominant force in North and Central Arabian Sea."
+    },
+    {
+      "DP No": "20",
+      "Name": "Destroy BLUE port infrastructure at Mumbai",
+      "Objective": "Degrade BLUE war-waging capability to ensure freedom of movement of own trade and project RED as dominant force in North and Central Arabian Sea."
+    },
+    {
+      "DP No": "21",
+      "Name": "Destroy BLUE port infrastructure at Karwar",
+      "Objective": "Degrade BLUE war-waging capability to ensure freedom of movement of own trade and project RED as dominant force in North and Central Arabian Sea."
+    },
+    {
+      "DP No": "22",
+      "Name": "Disrupt BLUE cyber capabilities at ISRO",
+      "Objective": "Degrade BLUE war-waging capability to ensure freedom of movement of own trade and project RED as dominant force in North and Central Arabian Sea."
+    },
+    {
+      "DP No": "22",
+      "Name": "Disrupt BLUE DIPAC, NRSC",
+      "Objective": "Degrade BLUE war-waging capability to ensure freedom of movement of own trade and project RED as dominant force in North and Central Arabian Sea."
+    },
+    {
+      "DP No": "25",
+      "Name": "Protect Karachi oil refinery",
+      "Objective": "Degradation of economic potential of BLUE by attacking VA/VPS in Gujarat and protect own VA/VPs."
+    },
+    {
+      "DP No": "25",
+      "Name": "Protect VA/VPs in Sindh region",
+      "Objective": "Degradation of economic potential of BLUE by attacking VA/VPS in Gujarat and protect own VA/VPs."
+    }
+  ],
+  "tasks": [
+    {
+      "Task No": "1.1",
+      "Name": "Deployment of Red Forces",
+      "Desc": "Deployment of Red Forces",
+      "description": "Deployment of Red Forces",
+      "Task Name": "Deployment of Red Forces",
+      "DP No": "1",
+      "dp_no": "1",
+      "Weight": 50.0,
+      "weight": 50.0,
+      "stated": 50.0,
+      "Stated %": 50.0,
+      "Progress": 24.9,
+      "progress": 24.9,
+      "achieved": 24.9,
+      "Achieved %": 24.9,
+      "Progress %": 24.9,
+      "Intangible": "nil"
+    },
+    {
+      "Task No": "1.2",
+      "Name": "ISR and MDA build Up",
+      "Desc": "ISR and MDA build Up",
+      "description": "ISR and MDA build Up",
+      "Task Name": "ISR and MDA build Up",
+      "DP No": "1",
+      "dp_no": "1"
+    },
+    {
+      "Task No": "1.3",
+      "Name": "MR-sub co-operation for strikes by S/M",
+      "Desc": "MR-sub co-operation for strikes by S/M",
+      "description": "MR-sub co-operation for strikes by S/M",
+      "Task Name": "MR-sub co-operation for strikes by S/M",
+      "DP No": "1",
+      "dp_no": "1"
+    },
+    {
+      "Task No": "1.4",
+      "Name": "Exercise control on the FVs/CsOOP to undertake opportune strikes on Blue Surface targets",
+      "Desc": "Exercise control on the FVs/CsOOP to undertake opportune strikes on Blue Surface targets",
+      "description": "Exercise control on the FVs/CsOOP to undertake opportune strikes on Blue Surface targets",
+      "Task Name": "Exercise control on the FVs/CsOOP to undertake opportune strikes on Blue Surface targets",
+      "DP No": "1",
+      "dp_no": "1"
+    },
+    {
+      "Task No": "1.5",
+      "Name": "Undertake attacks by surface units on opportune Blue targets",
+      "Desc": "Undertake attacks by surface units on opportune Blue targets",
+      "description": "Undertake attacks by surface units on opportune Blue targets",
+      "Task Name": "Undertake attacks by surface units on opportune Blue targets",
+      "DP No": "1",
+      "dp_no": "1"
+    },
+    {
+      "Task No": "1.6",
+      "Name": "Undertake attacks by Submarine on opportune Blue targets",
+      "Desc": "Undertake attacks by Submarine on opportune Blue targets",
+      "description": "Undertake attacks by Submarine on opportune Blue targets",
+      "Task Name": "Undertake attacks by Submarine on opportune Blue targets",
+      "DP No": "1",
+      "dp_no": "1",
+      "Weight": 32.5,
+      "weight": 32.5,
+      "stated": 32.5,
+      "Stated %": 32.5,
+      "Progress": 57.1,
+      "progress": 57.1,
+      "achieved": 57.1,
+      "Achieved %": 57.1,
+      "Progress %": 57.1,
+      "Intangible": "nil"
+    },
+    {
+      "Task No": "1.7",
+      "Name": "Anti-Shipping strikes on Blue units by Air assets (Fighters/MPA/UCAVS)",
+      "Desc": "Anti-Shipping strikes on Blue units by Air assets (Fighters/MPA/UCAVS)",
+      "description": "Anti-Shipping strikes on Blue units by Air assets (Fighters/MPA/UCAVS)",
+      "Task Name": "Anti-Shipping strikes on Blue units by Air assets (Fighters/MPA/UCAVS)",
+      "DP No": "1",
+      "dp_no": "1"
+    },
+    {
+      "Task No": "1.8",
+      "Name": "Undertake Blue MR Busting",
+      "Desc": "Undertake Blue MR Busting",
+      "description": "Undertake Blue MR Busting",
+      "Task Name": "Undertake Blue MR Busting",
+      "DP No": "1",
+      "dp_no": "1"
+    },
+    {
+      "Task No": "3.1",
+      "Name": "Deployment of surface assets in GoO and GoA",
+      "Desc": "Deployment of surface assets in GoO and GoA",
+      "description": "Deployment of surface assets in GoO and GoA",
+      "Task Name": "Deployment of surface assets in GoO and GoA",
+      "DP No": "3",
+      "dp_no": "3",
+      "Weight": 38.1,
+      "weight": 38.1,
+      "stated": 38.1,
+      "Stated %": 38.1,
+      "Progress": 92.9,
+      "progress": 92.9,
+      "achieved": 92.9,
+      "Achieved %": 92.9,
+      "Progress %": 92.9,
+      "Intangible": "nil"
+    },
+    {
+      "Task No": "3.2",
+      "Name": "Deployment of Fishing Vessels (explosive laden) in GoO",
+      "Desc": "Deployment of Fishing Vessels (explosive laden) in GoO",
+      "description": "Deployment of Fishing Vessels (explosive laden) in GoO",
+      "Task Name": "Deployment of Fishing Vessels (explosive laden) in GoO",
+      "DP No": "3",
+      "dp_no": "3"
+    },
+    {
+      "Task No": "3.3",
+      "Name": "MMCB strikes in Gulf of Oman on Blue warships interdicting Red trade",
+      "Desc": "MMCB strikes in Gulf of Oman on Blue warships interdicting Red trade",
+      "description": "MMCB strikes in Gulf of Oman on Blue warships interdicting Red trade",
+      "Task Name": "MMCB strikes in Gulf of Oman on Blue warships interdicting Red trade",
+      "DP No": "3",
+      "dp_no": "3"
+    },
+    {
+      "Task No": "3.4",
+      "Name": "Deployment of surface assets in GoO and GoA",
+      "Desc": "Deployment of surface assets in GoO and GoA",
+      "description": "Deployment of surface assets in GoO and GoA",
+      "Task Name": "Deployment of surface assets in GoO and GoA",
+      "DP No": "3",
+      "dp_no": "3"
+    },
+    {
+      "Task No": "4.1",
+      "Name": "Ensure safe transit of HVU from yellow and black",
+      "Desc": "Ensure safe transit of HVU from yellow and black",
+      "description": "Ensure safe transit of HVU from yellow and black",
+      "Task Name": "Ensure safe transit of HVU from yellow and black",
+      "DP No": "4",
+      "dp_no": "4"
+    },
+    {
+      "Task No": "4.2",
+      "Name": "Provide AD cover to HVU",
+      "Desc": "Provide AD cover to HVU",
+      "description": "Provide AD cover to HVU",
+      "Task Name": "Provide AD cover to HVU",
+      "DP No": "4",
+      "dp_no": "4"
+    },
+    {
+      "Task No": "8.1",
+      "Name": "Ensure layered Air Defence of Karachi harbour In co-ordination with AF and Army",
+      "Desc": "Ensure layered Air Defence of Karachi harbour In co-ordination with AF and Army",
+      "description": "Ensure layered Air Defence of Karachi harbour In co-ordination with AF and Army",
+      "Task Name": "Ensure layered Air Defence of Karachi harbour In co-ordination with AF and Army",
+      "DP No": "8",
+      "dp_no": "8",
+      "Weight": 11.0,
+      "weight": 11.0,
+      "stated": 11.0,
+      "Stated %": 11.0,
+      "Progress": 13.8,
+      "progress": 13.8,
+      "achieved": 13.8,
+      "Achieved %": 13.8,
+      "Progress %": 13.8,
+      "Intangible": "nil"
+    },
+    {
+      "Task No": "8.2",
+      "Name": "Deploy 3D long-range surveillance radars for aerial picture",
+      "Desc": "Deploy 3D long-range surveillance radars for aerial picture",
+      "description": "Deploy 3D long-range surveillance radars for aerial picture",
+      "Task Name": "Deploy 3D long-range surveillance radars for aerial picture",
+      "DP No": "8",
+      "dp_no": "8"
+    },
+    {
+      "Task No": "8.3",
+      "Name": "Integrate EO/IR systems for low-altitude/stealth threats",
+      "Desc": "Integrate EO/IR systems for low-altitude/stealth threats",
+      "description": "Integrate EO/IR systems for low-altitude/stealth threats",
+      "Task Name": "Integrate EO/IR systems for low-altitude/stealth threats",
+      "DP No": "8",
+      "dp_no": "8"
+    },
+    {
+      "Task No": "8.4",
+      "Name": "Employ drones for persistent aerial recce around the harbour",
+      "Desc": "Employ drones for persistent aerial recce around the harbour",
+      "description": "Employ drones for persistent aerial recce around the harbour",
+      "Task Name": "Employ drones for persistent aerial recce around the harbour",
+      "DP No": "8",
+      "dp_no": "8"
+    },
+    {
+      "Task No": "8.5",
+      "Name": "Utilise MDA and C4ISR nodes for real time sea borne threat",
+      "Desc": "Utilise MDA and C4ISR nodes for real time sea borne threat",
+      "description": "Utilise MDA and C4ISR nodes for real time sea borne threat",
+      "Task Name": "Utilise MDA and C4ISR nodes for real time sea borne threat",
+      "DP No": "8",
+      "dp_no": "8"
+    },
+    {
+      "Task No": "8.6",
+      "Name": "Deploy Jammers for GPS/INS denial to incoming PGMS/drones",
+      "Desc": "Deploy Jammers for GPS/INS denial to incoming PGMS/drones",
+      "description": "Deploy Jammers for GPS/INS denial to incoming PGMS/drones",
+      "Task Name": "Deploy Jammers for GPS/INS denial to incoming PGMS/drones",
+      "DP No": "8",
+      "dp_no": "8"
+    },
+    {
+      "Task No": "8.7",
+      "Name": "Disperse high value assets (Red surface combatants)",
+      "Desc": "Disperse high value assets (Red surface combatants)",
+      "description": "Disperse high value assets (Red surface combatants)",
+      "Task Name": "Disperse high value assets (Red surface combatants)",
+      "DP No": "8",
+      "dp_no": "8"
+    },
+    {
+      "Task No": "9.1",
+      "Name": "Positioning of Surface assets (Hovercrafts, FVs, FACs) to insert Marines /SF in Sir creek",
+      "Desc": "Positioning of Surface assets (Hovercrafts, FVs, FACs) to insert Marines /SF in Sir creek",
+      "description": "Positioning of Surface assets (Hovercrafts, FVs, FACs) to insert Marines /SF in Sir creek",
+      "Task Name": "Positioning of Surface assets (Hovercrafts, FVs, FACs) to insert Marines /SF in Sir creek",
+      "DP No": "9",
+      "dp_no": "9"
+    },
+    {
+      "Task No": "9.2",
+      "Name": "SF to neutralise Border Out Posts in support of Land operations.",
+      "Desc": "SF to neutralise Border Out Posts in support of Land operations.",
+      "description": "SF to neutralise Border Out Posts in support of Land operations.",
+      "Task Name": "SF to neutralise Border Out Posts in support of Land operations.",
+      "DP No": "9",
+      "dp_no": "9"
+    },
+    {
+      "Task No": "9.3",
+      "Name": "Deter/Thwart any ingress of Blue SF forces through sir creek",
+      "Desc": "Deter/Thwart any ingress of Blue SF forces through sir creek",
+      "description": "Deter/Thwart any ingress of Blue SF forces through sir creek",
+      "Task Name": "Deter/Thwart any ingress of Blue SF forces through sir creek",
+      "DP No": "9",
+      "dp_no": "9"
+    },
+    {
+      "Task No": "11.1",
+      "Name": "Insertion of SF element from Sir Creek by Fvs/CsOOP and SFs to utilise local transport to reach Tirunelveli",
+      "Desc": "Insertion of SF element from Sir Creek by Fvs/CsOOP and SFs to utilise local transport to reach Tirunelveli",
+      "description": "Insertion of SF element from Sir Creek by Fvs/CsOOP and SFs to utilise local transport to reach Tirunelveli",
+      "Task Name": "Insertion of SF element from Sir Creek by Fvs/CsOOP and SFs to utilise local transport to reach Tirunelveli",
+      "DP No": "11",
+      "dp_no": "11"
+    },
+    {
+      "Task No": "11.2",
+      "Name": "Insertion of SF element from Palk Bay by FVs/CsOOP",
+      "Desc": "Insertion of SF element from Palk Bay by FVs/CsOOP",
+      "description": "Insertion of SF element from Palk Bay by FVs/CsOOP",
+      "Task Name": "Insertion of SF element from Palk Bay by FVs/CsOOP",
+      "DP No": "11",
+      "dp_no": "11"
+    },
+    {
+      "Task No": "11.3",
+      "Name": "MV Peng to disembark SF element off Palk Bay for neutralising the UAV control station",
+      "Desc": "MV Peng to disembark SF element off Palk Bay for neutralising the UAV control station",
+      "description": "MV Peng to disembark SF element off Palk Bay for neutralising the UAV control station",
+      "Task Name": "MV Peng to disembark SF element off Palk Bay for neutralising the UAV control station",
+      "DP No": "11",
+      "dp_no": "11"
+    },
+    {
+      "Task No": "5.1",
+      "Name": "Continuous MDA build-up in Northern Arabian Sea",
+      "Desc": "Continuous MDA build-up in Northern Arabian Sea",
+      "description": "Continuous MDA build-up in Northern Arabian Sea",
+      "Task Name": "Continuous MDA build-up in Northern Arabian Sea",
+      "DP No": "5",
+      "dp_no": "5"
+    },
+    {
+      "Task No": "6.1",
+      "Name": "Ensure AD protection of Airfields and Red assets",
+      "Desc": "Ensure AD protection of Airfields and Red assets",
+      "description": "Ensure AD protection of Airfields and Red assets",
+      "Task Name": "Ensure AD protection of Airfields and Red assets",
+      "DP No": "6",
+      "dp_no": "6"
+    },
+    {
+      "Task No": "6.2",
+      "Name": "Coordinate with security forces for strict identity checks around Red Naval bases, radar sites",
+      "Desc": "Coordinate with security forces for strict identity checks around Red Naval bases, radar sites",
+      "description": "Coordinate with security forces for strict identity checks around Red Naval bases, radar sites",
+      "Task Name": "Coordinate with security forces for strict identity checks around Red Naval bases, radar sites",
+      "DP No": "6",
+      "dp_no": "6"
+    },
+    {
+      "Task No": "6.3",
+      "Name": "Ensure frequent mobilisation of mobile radar and AD sites",
+      "Desc": "Ensure frequent mobilisation of mobile radar and AD sites",
+      "description": "Ensure frequent mobilisation of mobile radar and AD sites",
+      "Task Name": "Ensure frequent mobilisation of mobile radar and AD sites",
+      "DP No": "6",
+      "dp_no": "6"
+    },
+    {
+      "Task No": "6.4",
+      "Name": "Mobilise LRMP and MALE/HALE to airfields in depth",
+      "Desc": "Mobilise LRMP and MALE/HALE to airfields in depth",
+      "description": "Mobilise LRMP and MALE/HALE to airfields in depth",
+      "Task Name": "Mobilise LRMP and MALE/HALE to airfields in depth",
+      "DP No": "6",
+      "dp_no": "6"
+    },
+    {
+      "Task No": "6.5",
+      "Name": "Strengthen Perimeter security",
+      "Desc": "Strengthen Perimeter security",
+      "description": "Strengthen Perimeter security",
+      "Task Name": "Strengthen Perimeter security",
+      "DP No": "6",
+      "dp_no": "6"
+    },
+    {
+      "Task No": "6.6",
+      "Name": "Hardened Power and Communication Entry Points with Surge and EM protection",
+      "Desc": "Hardened Power and Communication Entry Points with Surge and EM protection",
+      "description": "Hardened Power and Communication Entry Points with Surge and EM protection",
+      "Task Name": "Hardened Power and Communication Entry Points with Surge and EM protection",
+      "DP No": "6",
+      "dp_no": "6"
+    },
+    {
+      "Task No": "6.7",
+      "Name": "Create Controlled approach routes and vehicle checkpoint with anti-ram barriers",
+      "Desc": "Create Controlled approach routes and vehicle checkpoint with anti-ram barriers",
+      "description": "Create Controlled approach routes and vehicle checkpoint with anti-ram barriers",
+      "Task Name": "Create Controlled approach routes and vehicle checkpoint with anti-ram barriers",
+      "DP No": "6",
+      "dp_no": "6"
+    },
+    {
+      "Task No": "6.8",
+      "Name": "Multi factor Physical Access checks (Blometric, badges, Manned guards)",
+      "Desc": "Multi factor Physical Access checks (Blometric, badges, Manned guards)",
+      "description": "Multi factor Physical Access checks (Blometric, badges, Manned guards)",
+      "Task Name": "Multi factor Physical Access checks (Blometric, badges, Manned guards)",
+      "DP No": "6",
+      "dp_no": "6"
+    },
+    {
+      "Task No": "6.9",
+      "Name": "Armed QRT be activated",
+      "Desc": "Armed QRT be activated",
+      "description": "Armed QRT be activated",
+      "Task Name": "Armed QRT be activated",
+      "DP No": "6",
+      "dp_no": "6"
+    },
+    {
+      "Task No": "7.1",
+      "Name": "Position radar/EO detection for low altitude threats",
+      "Desc": "Position radar/EO detection for low altitude threats",
+      "description": "Position radar/EO detection for low altitude threats",
+      "Task Name": "Position radar/EO detection for low altitude threats",
+      "DP No": "7",
+      "dp_no": "7"
+    },
+    {
+      "Task No": "7.2",
+      "Name": "Position drone detection system",
+      "Desc": "Position drone detection system",
+      "description": "Position drone detection system",
+      "Task Name": "Position drone detection system",
+      "DP No": "7",
+      "dp_no": "7"
+    },
+    {
+      "Task No": "7.3",
+      "Name": "Deploy Kinetic/Non-Kinetic counter UAS (jamming, RF capture, nets)",
+      "Desc": "Deploy Kinetic/Non-Kinetic counter UAS (jamming, RF capture, nets)",
+      "description": "Deploy Kinetic/Non-Kinetic counter UAS (jamming, RF capture, nets)",
+      "Task Name": "Deploy Kinetic/Non-Kinetic counter UAS (jamming, RF capture, nets)",
+      "DP No": "7",
+      "dp_no": "7",
+      "Weight": 13.5,
+      "weight": 13.5,
+      "stated": 13.5,
+      "Stated %": 13.5,
+      "Progress": 6.7,
+      "progress": 6.7,
+      "achieved": 6.7,
+      "Achieved %": 6.7,
+      "Progress %": 6.7,
+      "Intangible": "nil"
+    },
+    {
+      "Task No": "7.4",
+      "Name": "Hardened Power and Communication Entry Points with Surge and EM protection",
+      "Desc": "Hardened Power and Communication Entry Points with Surge and EM protection",
+      "description": "Hardened Power and Communication Entry Points with Surge and EM protection",
+      "Task Name": "Hardened Power and Communication Entry Points with Surge and EM protection",
+      "DP No": "7",
+      "dp_no": "7"
+    },
+    {
+      "Task No": "7.5",
+      "Name": "Create Controlled approach routes and vehicle checkpoint with anti-ram barriers",
+      "Desc": "Create Controlled approach routes and vehicle checkpoint with anti-ram barriers",
+      "description": "Create Controlled approach routes and vehicle checkpoint with anti-ram barriers",
+      "Task Name": "Create Controlled approach routes and vehicle checkpoint with anti-ram barriers",
+      "DP No": "7",
+      "dp_no": "7"
+    },
+    {
+      "Task No": "7.6",
+      "Name": "Multi factor Physical Access checks (Blometric, badges, Manned guards)",
+      "Desc": "Multi factor Physical Access checks (Blometric, badges, Manned guards)",
+      "description": "Multi factor Physical Access checks (Blometric, badges, Manned guards)",
+      "Task Name": "Multi factor Physical Access checks (Blometric, badges, Manned guards)",
+      "DP No": "7",
+      "dp_no": "7"
+    },
+    {
+      "Task No": "7.7",
+      "Name": "Alrspace co-ordination with Airforce for intercept CAP/AD coverage",
+      "Desc": "Alrspace co-ordination with Airforce for intercept CAP/AD coverage",
+      "description": "Alrspace co-ordination with Airforce for intercept CAP/AD coverage",
+      "Task Name": "Alrspace co-ordination with Airforce for intercept CAP/AD coverage",
+      "DP No": "7",
+      "dp_no": "7"
+    },
+    {
+      "Task No": "7.8",
+      "Name": "Strengthen Air Gap for cyber security",
+      "Desc": "Strengthen Air Gap for cyber security",
+      "description": "Strengthen Air Gap for cyber security",
+      "Task Name": "Strengthen Air Gap for cyber security",
+      "DP No": "7",
+      "dp_no": "7"
+    },
+    {
+      "Task No": "7.9",
+      "Name": "Multi layered perimeter defence- firewalls, IDS/IPS, endpoint protection",
+      "Desc": "Multi layered perimeter defence- firewalls, IDS/IPS, endpoint protection",
+      "description": "Multi layered perimeter defence- firewalls, IDS/IPS, endpoint protection",
+      "Task Name": "Multi layered perimeter defence- firewalls, IDS/IPS, endpoint protection",
+      "DP No": "7",
+      "dp_no": "7"
+    },
+    {
+      "Task No": "7.1",
+      "Name": "Preapproved repair contracts and rapid deployment of teams for field repair",
+      "Desc": "Preapproved repair contracts and rapid deployment of teams for field repair",
+      "description": "Preapproved repair contracts and rapid deployment of teams for field repair",
+      "Task Name": "Preapproved repair contracts and rapid deployment of teams for field repair",
+      "DP No": "7",
+      "dp_no": "7"
+    },
+    {
+      "Task No": "7.11",
+      "Name": "Disaster recovery site be activated",
+      "Desc": "Disaster recovery site be activated",
+      "description": "Disaster recovery site be activated",
+      "Task Name": "Disaster recovery site be activated",
+      "DP No": "7",
+      "dp_no": "7"
+    },
+    {
+      "Task No": "2.1",
+      "Name": "Ensure AD of own C4ISR centres",
+      "Desc": "Ensure AD of own C4ISR centres",
+      "description": "Ensure AD of own C4ISR centres",
+      "Task Name": "Ensure AD of own C4ISR centres",
+      "DP No": "2",
+      "dp_no": "2"
+    },
+    {
+      "Task No": "2.2",
+      "Name": "Create Controlled approach routes and vehicle checkpoint with anti-ram barriers",
+      "Desc": "Create Controlled approach routes and vehicle checkpoint with anti-ram barriers",
+      "description": "Create Controlled approach routes and vehicle checkpoint with anti-ram barriers",
+      "Task Name": "Create Controlled approach routes and vehicle checkpoint with anti-ram barriers",
+      "DP No": "2",
+      "dp_no": "2"
+    },
+    {
+      "Task No": "2.3",
+      "Name": "Position radar/EO detection for low altitude threats and Position drone detection system",
+      "Desc": "Position radar/EO detection for low altitude threats and Position drone detection system",
+      "description": "Position radar/EO detection for low altitude threats and Position drone detection system",
+      "Task Name": "Position radar/EO detection for low altitude threats and Position drone detection system",
+      "DP No": "2",
+      "dp_no": "2"
+    },
+    {
+      "Task No": "2.4",
+      "Name": "Deploy Kinetic/Non-Kinetic counter UAS (jamming, RF capture, nets)",
+      "Desc": "Deploy Kinetic/Non-Kinetic counter UAS (jamming, RF capture, nets)",
+      "description": "Deploy Kinetic/Non-Kinetic counter UAS (jamming, RF capture, nets)",
+      "Task Name": "Deploy Kinetic/Non-Kinetic counter UAS (jamming, RF capture, nets)",
+      "DP No": "2",
+      "dp_no": "2"
+    },
+    {
+      "Task No": "12.1",
+      "Name": "MMCB strikes to neutralise AD",
+      "Desc": "MMCB strikes to neutralise AD",
+      "description": "MMCB strikes to neutralise AD",
+      "Task Name": "MMCB strikes to neutralise AD",
+      "DP No": "12",
+      "dp_no": "12"
+    },
+    {
+      "Task No": "12.2",
+      "Name": "Clandestine Operations to neutralise AD",
+      "Desc": "Clandestine Operations to neutralise AD",
+      "description": "Clandestine Operations to neutralise AD",
+      "Task Name": "Clandestine Operations to neutralise AD",
+      "DP No": "12",
+      "dp_no": "12",
+      "Weight": 100.0,
+      "weight": 100.0,
+      "stated": 100.0,
+      "Stated %": 100.0,
+      "Progress": 100.0,
+      "progress": 100.0,
+      "achieved": 100.0,
+      "Achieved %": 100.0,
+      "Progress %": 100.0,
+      "Intangible": "nil"
+    },
+    {
+      "Task No": "12.3",
+      "Name": "LM strikes from Sindh Region",
+      "Desc": "LM strikes from Sindh Region",
+      "description": "LM strikes from Sindh Region",
+      "Task Name": "LM strikes from Sindh Region",
+      "DP No": "12",
+      "dp_no": "12"
+    },
+    {
+      "Task No": "13.1",
+      "Name": "Undertake MMCB strikes on VA/VPs off Gujarat",
+      "Desc": "Undertake MMCB strikes on VA/VPs off Gujarat",
+      "description": "Undertake MMCB strikes on VA/VPs off Gujarat",
+      "Task Name": "Undertake MMCB strikes on VA/VPs off Gujarat",
+      "DP No": "13",
+      "dp_no": "13"
+    },
+    {
+      "Task No": "13.2",
+      "Name": "Undertake LM strikes from Sindh Region",
+      "Desc": "Undertake LM strikes from Sindh Region",
+      "description": "Undertake LM strikes from Sindh Region",
+      "Task Name": "Undertake LM strikes from Sindh Region",
+      "DP No": "13",
+      "dp_no": "13"
+    },
+    {
+      "Task No": "13.3",
+      "Name": "Degrade AD assets in Gujarat",
+      "Desc": "Degrade AD assets in Gujarat",
+      "description": "Degrade AD assets in Gujarat",
+      "Task Name": "Degrade AD assets in Gujarat",
+      "DP No": "13",
+      "dp_no": "13"
+    },
+    {
+      "Task No": "13.4",
+      "Name": "Surface strikes using AShMs",
+      "Desc": "Surface strikes using AShMs",
+      "description": "Surface strikes using AShMs",
+      "Task Name": "Surface strikes using AShMs",
+      "DP No": "13",
+      "dp_no": "13"
+    },
+    {
+      "Task No": "13.5",
+      "Name": "SF clandestine Operations",
+      "Desc": "SF clandestine Operations",
+      "description": "SF clandestine Operations",
+      "Task Name": "SF clandestine Operations",
+      "DP No": "13",
+      "dp_no": "13"
+    },
+    {
+      "Task No": "15.1",
+      "Name": "Interdict Blue HVU",
+      "Desc": "Interdict Blue HVU",
+      "description": "Interdict Blue HVU",
+      "Task Name": "Interdict Blue HVU",
+      "DP No": "15",
+      "dp_no": "15"
+    },
+    {
+      "Task No": "15.2",
+      "Name": "LM strikes in Gulf of Oman to interdicting HVU",
+      "Desc": "LM strikes in Gulf of Oman to interdicting HVU",
+      "description": "LM strikes in Gulf of Oman to interdicting HVU",
+      "Task Name": "LM strikes in Gulf of Oman to interdicting HVU",
+      "DP No": "15",
+      "dp_no": "15"
+    },
+    {
+      "Task No": "15.3",
+      "Name": "Undertake fidayeen attack on Blue MV carrying HVU from GoO",
+      "Desc": "Undertake fidayeen attack on Blue MV carrying HVU from GoO",
+      "description": "Undertake fidayeen attack on Blue MV carrying HVU from GoO",
+      "Task Name": "Undertake fidayeen attack on Blue MV carrying HVU from GoO",
+      "DP No": "15",
+      "dp_no": "15"
+    },
+    {
+      "Task No": "15.4",
+      "Name": "Undertake anti-shipping strikes",
+      "Desc": "Undertake anti-shipping strikes",
+      "description": "Undertake anti-shipping strikes",
+      "Task Name": "Undertake anti-shipping strikes",
+      "DP No": "15",
+      "dp_no": "15"
+    },
+    {
+      "Task No": "15.5",
+      "Name": "MMCB strikes in Gulf of Oman",
+      "Desc": "MMCB strikes in Gulf of Oman",
+      "description": "MMCB strikes in Gulf of Oman",
+      "Task Name": "MMCB strikes in Gulf of Oman",
+      "DP No": "15",
+      "dp_no": "15"
+    },
+    {
+      "Task No": "23.1",
+      "Name": "LM strikes",
+      "Desc": "LM strikes",
+      "description": "LM strikes",
+      "Task Name": "LM strikes",
+      "DP No": "23",
+      "dp_no": "23"
+    },
+    {
+      "Task No": "23.2",
+      "Name": "AshM attacks on Blue trade in DWC at opportune moment",
+      "Desc": "AshM attacks on Blue trade in DWC at opportune moment",
+      "description": "AshM attacks on Blue trade in DWC at opportune moment",
+      "Task Name": "AshM attacks on Blue trade in DWC at opportune moment",
+      "DP No": "23",
+      "dp_no": "23"
+    },
+    {
+      "Task No": "23.3",
+      "Name": "Undertake anti-shipping strikes on Blue units entering DWC",
+      "Desc": "Undertake anti-shipping strikes on Blue units entering DWC",
+      "description": "Undertake anti-shipping strikes on Blue units entering DWC",
+      "Task Name": "Undertake anti-shipping strikes on Blue units entering DWC",
+      "DP No": "23",
+      "dp_no": "23"
+    },
+    {
+      "Task No": "23.4",
+      "Name": "Undertake drone strikes on Blue Trade from FVs",
+      "Desc": "Undertake drone strikes on Blue Trade from FVs",
+      "description": "Undertake drone strikes on Blue Trade from FVs",
+      "Task Name": "Undertake drone strikes on Blue Trade from FVs",
+      "DP No": "23",
+      "dp_no": "23"
+    },
+    {
+      "Task No": "23.5",
+      "Name": "Attack by midgets on Opportune Blue trade in DWC",
+      "Desc": "Attack by midgets on Opportune Blue trade in DWC",
+      "description": "Attack by midgets on Opportune Blue trade in DWC",
+      "Task Name": "Attack by midgets on Opportune Blue trade in DWC",
+      "DP No": "23",
+      "dp_no": "23"
+    },
+    {
+      "Task No": "14.1",
+      "Name": "Interdiction of BLUE trade transiting through northern Arabian Sea and Gulf of Oman",
+      "Desc": "Interdiction of BLUE trade transiting through northern Arabian Sea and Gulf of Oman",
+      "description": "Interdiction of BLUE trade transiting through northern Arabian Sea and Gulf of Oman",
+      "Task Name": "Interdiction of BLUE trade transiting through northern Arabian Sea and Gulf of Oman",
+      "DP No": "14",
+      "dp_no": "14"
+    },
+    {
+      "Task No": "14.2",
+      "Name": "LM strikes in Gulf of Oman on Blue warships interdicting Red trade",
+      "Desc": "LM strikes in Gulf of Oman on Blue warships interdicting Red trade",
+      "description": "LM strikes in Gulf of Oman on Blue warships interdicting Red trade",
+      "Task Name": "LM strikes in Gulf of Oman on Blue warships interdicting Red trade",
+      "DP No": "14",
+      "dp_no": "14"
+    },
+    {
+      "Task No": "14.3",
+      "Name": "Undertake attack on Blue trade/ oil tankers",
+      "Desc": "Undertake attack on Blue trade/ oil tankers",
+      "description": "Undertake attack on Blue trade/ oil tankers",
+      "Task Name": "Undertake attack on Blue trade/ oil tankers",
+      "DP No": "14",
+      "dp_no": "14"
+    },
+    {
+      "Task No": "14.4",
+      "Name": "Undertake anti-shipping strikes on Blue trade in SLOCS",
+      "Desc": "Undertake anti-shipping strikes on Blue trade in SLOCS",
+      "description": "Undertake anti-shipping strikes on Blue trade in SLOCS",
+      "Task Name": "Undertake anti-shipping strikes on Blue trade in SLOCS",
+      "DP No": "14",
+      "dp_no": "14"
+    },
+    {
+      "Task No": "14.5",
+      "Name": "MMCB strikes in Gulf of Oman on Blue MVS/MTs",
+      "Desc": "MMCB strikes in Gulf of Oman on Blue MVS/MTs",
+      "description": "MMCB strikes in Gulf of Oman on Blue MVS/MTs",
+      "Task Name": "MMCB strikes in Gulf of Oman on Blue MVS/MTs",
+      "DP No": "14",
+      "dp_no": "14"
+    },
+    {
+      "Task No": "14.6",
+      "Name": "Undertake drone strikes on Blue Trade from FVs",
+      "Desc": "Undertake drone strikes on Blue Trade from FVs",
+      "description": "Undertake drone strikes on Blue Trade from FVs",
+      "Task Name": "Undertake drone strikes on Blue Trade from FVs",
+      "DP No": "14",
+      "dp_no": "14"
+    },
+    {
+      "Task No": "14.7",
+      "Name": "Attack by midgets on Opportune Blue trade in DWC",
+      "Desc": "Attack by midgets on Opportune Blue trade in DWC",
+      "description": "Attack by midgets on Opportune Blue trade in DWC",
+      "Task Name": "Attack by midgets on Opportune Blue trade in DWC",
+      "DP No": "14",
+      "dp_no": "14"
+    },
+    {
+      "Task No": "14.8",
+      "Name": "AshM attacks on Blue trade in DWC at opportune moment",
+      "Desc": "AshM attacks on Blue trade in DWC at opportune moment",
+      "description": "AshM attacks on Blue trade in DWC at opportune moment",
+      "Task Name": "AshM attacks on Blue trade in DWC at opportune moment",
+      "DP No": "14",
+      "dp_no": "14"
+    },
+    {
+      "Task No": "24.1",
+      "Name": "Undertake cyber-attack on RUKMANI control station",
+      "Desc": "Undertake cyber-attack on RUKMANI control station",
+      "description": "Undertake cyber-attack on RUKMANI control station",
+      "Task Name": "Undertake cyber-attack on RUKMANI control station",
+      "DP No": "24",
+      "dp_no": "24"
+    },
+    {
+      "Task No": "24.2",
+      "Name": "Deployment of Red Forces",
+      "Desc": "Deployment of Red Forces",
+      "description": "Deployment of Red Forces",
+      "Task Name": "Deployment of Red Forces",
+      "DP No": "24",
+      "dp_no": "24"
+    },
+    {
+      "Task No": "24.3",
+      "Name": "Continuous Air, surface and sub-surface surveillance",
+      "Desc": "Continuous Air, surface and sub-surface surveillance",
+      "description": "Continuous Air, surface and sub-surface surveillance",
+      "Task Name": "Continuous Air, surface and sub-surface surveillance",
+      "DP No": "24",
+      "dp_no": "24"
+    },
+    {
+      "Task No": "24.4",
+      "Name": "MR-sub co-operation for strikes by S/M",
+      "Desc": "MR-sub co-operation for strikes by S/M",
+      "description": "MR-sub co-operation for strikes by S/M",
+      "Task Name": "MR-sub co-operation for strikes by S/M",
+      "DP No": "24",
+      "dp_no": "24"
+    },
+    {
+      "Task No": "24.5",
+      "Name": "OTHT for targeting data",
+      "Desc": "OTHT for targeting data",
+      "description": "OTHT for targeting data",
+      "Task Name": "OTHT for targeting data",
+      "DP No": "24",
+      "dp_no": "24"
+    },
+    {
+      "Task No": "24.6",
+      "Name": "Exercise control on the FVs/CsOOP to undertake opportune strikes on Blue Surface targets",
+      "Desc": "Exercise control on the FVs/CsOOP to undertake opportune strikes on Blue Surface targets",
+      "description": "Exercise control on the FVs/CsOOP to undertake opportune strikes on Blue Surface targets",
+      "Task Name": "Exercise control on the FVs/CsOOP to undertake opportune strikes on Blue Surface targets",
+      "DP No": "24",
+      "dp_no": "24"
+    },
+    {
+      "Task No": "24.7",
+      "Name": "Undertake attacks by surface units on opportune Blue targets",
+      "Desc": "Undertake attacks by surface units on opportune Blue targets",
+      "description": "Undertake attacks by surface units on opportune Blue targets",
+      "Task Name": "Undertake attacks by surface units on opportune Blue targets",
+      "DP No": "24",
+      "dp_no": "24"
+    },
+    {
+      "Task No": "24.8",
+      "Name": "Undertake attacks by Submarine on opportune Blue targets",
+      "Desc": "Undertake attacks by Submarine on opportune Blue targets",
+      "description": "Undertake attacks by Submarine on opportune Blue targets",
+      "Task Name": "Undertake attacks by Submarine on opportune Blue targets",
+      "DP No": "24",
+      "dp_no": "24"
+    },
+    {
+      "Task No": "24.9",
+      "Name": "Anti-Shipping strikes on Blue units by Air assets (Fighters/MPA/UCAVS)",
+      "Desc": "Anti-Shipping strikes on Blue units by Air assets (Fighters/MPA/UCAVS)",
+      "description": "Anti-Shipping strikes on Blue units by Air assets (Fighters/MPA/UCAVS)",
+      "Task Name": "Anti-Shipping strikes on Blue units by Air assets (Fighters/MPA/UCAVS)",
+      "DP No": "24",
+      "dp_no": "24"
+    },
+    {
+      "Task No": "24.1",
+      "Name": "GPS/Communication jamming using Jammers",
+      "Desc": "GPS/Communication jamming using Jammers",
+      "description": "GPS/Communication jamming using Jammers",
+      "Task Name": "GPS/Communication jamming using Jammers",
+      "DP No": "24",
+      "dp_no": "24"
+    },
+    {
+      "Task No": "24.11",
+      "Name": "Ensure robust co-ordination of surface, sub surface and air element to undertake three pronged attack",
+      "Desc": "Ensure robust co-ordination of surface, sub surface and air element to undertake three pronged attack",
+      "description": "Ensure robust co-ordination of surface, sub surface and air element to undertake three pronged attack",
+      "Task Name": "Ensure robust co-ordination of surface, sub surface and air element to undertake three pronged attack",
+      "DP No": "24",
+      "dp_no": "24"
+    },
+    {
+      "Task No": "24.12",
+      "Name": "Undertake Blue MR Busting",
+      "Desc": "Undertake Blue MR Busting",
+      "description": "Undertake Blue MR Busting",
+      "Task Name": "Undertake Blue MR Busting",
+      "DP No": "24",
+      "dp_no": "24"
+    },
+    {
+      "Task No": "17.1",
+      "Name": "Co-ordinate SBS inputs",
+      "Desc": "Co-ordinate SBS inputs",
+      "description": "Co-ordinate SBS inputs",
+      "Task Name": "Co-ordinate SBS inputs",
+      "DP No": "17",
+      "dp_no": "17"
+    },
+    {
+      "Task No": "17.2",
+      "Name": "ISR and ELINT to refine BLUE Naval Force dispositions and validate time to effect for own units",
+      "Desc": "ISR and ELINT to refine BLUE Naval Force dispositions and validate time to effect for own units",
+      "description": "ISR and ELINT to refine BLUE Naval Force dispositions and validate time to effect for own units",
+      "Task Name": "ISR and ELINT to refine BLUE Naval Force dispositions and validate time to effect for own units",
+      "DP No": "17",
+      "dp_no": "17"
+    },
+    {
+      "Task No": "17.3",
+      "Name": "Pre deployment of naval forces. Continuous information exchange with YELLOW and BLACK on BLUE movements",
+      "Desc": "Pre deployment of naval forces. Continuous information exchange with YELLOW and BLACK on BLUE movements",
+      "description": "Pre deployment of naval forces. Continuous information exchange with YELLOW and BLACK on BLUE movements",
+      "Task Name": "Pre deployment of naval forces. Continuous information exchange with YELLOW and BLACK on BLUE movements",
+      "DP No": "17",
+      "dp_no": "17",
+      "Weight": 77.4,
+      "weight": 77.4,
+      "stated": 77.4,
+      "Stated %": 77.4,
+      "Progress": 83.5,
+      "progress": 83.5,
+      "achieved": 83.5,
+      "Achieved %": 83.5,
+      "Progress %": 83.5,
+      "Intangible": "nil"
+    },
+    {
+      "Task No": "17.4",
+      "Name": "Gather HUMINT/ OSINT on the surveillance gaps of BLUE satellites",
+      "Desc": "Gather HUMINT/ OSINT on the surveillance gaps of BLUE satellites",
+      "description": "Gather HUMINT/ OSINT on the surveillance gaps of BLUE satellites",
+      "Task Name": "Gather HUMINT/ OSINT on the surveillance gaps of BLUE satellites",
+      "DP No": "17",
+      "dp_no": "17"
+    },
+    {
+      "Task No": "16.1",
+      "Name": "Undertake MMCB strikes",
+      "Desc": "Undertake MMCB strikes",
+      "description": "Undertake MMCB strikes",
+      "Task Name": "Undertake MMCB strikes",
+      "DP No": "16",
+      "dp_no": "16"
+    },
+    {
+      "Task No": "16.2",
+      "Name": "Undertake LM strikes",
+      "Desc": "Undertake LM strikes",
+      "description": "Undertake LM strikes",
+      "Task Name": "Undertake LM strikes",
+      "DP No": "16",
+      "dp_no": "16"
+    },
+    {
+      "Task No": "16.3",
+      "Name": "Degrade AD assets",
+      "Desc": "Degrade AD assets",
+      "description": "Degrade AD assets",
+      "Task Name": "Degrade AD assets",
+      "DP No": "16",
+      "dp_no": "16",
+      "Weight": 76.4,
+      "weight": 76.4,
+      "stated": 76.4,
+      "Stated %": 76.4,
+      "Progress": 53.8,
+      "progress": 53.8,
+      "achieved": 53.8,
+      "Achieved %": 53.8,
+      "Progress %": 53.8,
+      "Intangible": "nil"
+    },
+    {
+      "Task No": "16.4",
+      "Name": "SF clandestine Operations",
+      "Desc": "SF clandestine Operations",
+      "description": "SF clandestine Operations",
+      "Task Name": "SF clandestine Operations",
+      "DP No": "16",
+      "dp_no": "16"
+    },
+    {
+      "Task No": "19.1",
+      "Name": "Develop MDA over critical sea lanes and choke points",
+      "Desc": "Develop MDA over critical sea lanes and choke points",
+      "description": "Develop MDA over critical sea lanes and choke points",
+      "Task Name": "Develop MDA over critical sea lanes and choke points",
+      "DP No": "19",
+      "dp_no": "19"
+    },
+    {
+      "Task No": "20.1",
+      "Name": "Timely departure of MV Peng",
+      "Desc": "Timely departure of MV Peng",
+      "description": "Timely departure of MV Peng",
+      "Task Name": "Timely departure of MV Peng",
+      "DP No": "20",
+      "dp_no": "20"
+    },
+    {
+      "Task No": "20.2",
+      "Name": "MV Peng to undertake LM strikes at Mumbai Airfield and Goa Airfieldat INS Hansa/MPA sqn at Hansa",
+      "Desc": "MV Peng to undertake LM strikes at Mumbai Airfield and Goa Airfieldat INS Hansa/MPA sqn at Hansa",
+      "description": "MV Peng to undertake LM strikes at Mumbai Airfield and Goa Airfieldat INS Hansa/MPA sqn at Hansa",
+      "Task Name": "MV Peng to undertake LM strikes at Mumbai Airfield and Goa Airfieldat INS Hansa/MPA sqn at Hansa",
+      "DP No": "20",
+      "dp_no": "20"
+    },
+    {
+      "Task No": "20.3",
+      "Name": "Timely departure of MV Peng",
+      "Desc": "Timely departure of MV Peng",
+      "description": "Timely departure of MV Peng",
+      "Task Name": "Timely departure of MV Peng",
+      "DP No": "20",
+      "dp_no": "20"
+    },
+    {
+      "Task No": "20.4",
+      "Name": "Obtain Precise geographical locations of ODAs off Mumbai",
+      "Desc": "Obtain Precise geographical locations of ODAs off Mumbai",
+      "description": "Obtain Precise geographical locations of ODAs off Mumbai",
+      "Task Name": "Obtain Precise geographical locations of ODAs off Mumbai",
+      "DP No": "20",
+      "dp_no": "20"
+    },
+    {
+      "Task No": "20.5",
+      "Name": "MV Peng to undertake LM strikes on ODAs off Mumbai",
+      "Desc": "MV Peng to undertake LM strikes on ODAs off Mumbai",
+      "description": "MV Peng to undertake LM strikes on ODAs off Mumbai",
+      "Task Name": "MV Peng to undertake LM strikes on ODAs off Mumbai",
+      "DP No": "20",
+      "dp_no": "20"
+    },
+    {
+      "Task No": "21.1",
+      "Name": "Timely departure of MV Peng",
+      "Desc": "Timely departure of MV Peng",
+      "description": "Timely departure of MV Peng",
+      "Task Name": "Timely departure of MV Peng",
+      "DP No": "21",
+      "dp_no": "21",
+      "Weight": 68.3,
+      "weight": 68.3,
+      "stated": 68.3,
+      "Stated %": 68.3,
+      "Progress": 100.0,
+      "progress": 100.0,
+      "achieved": 100.0,
+      "Achieved %": 100.0,
+      "Progress %": 100.0,
+      "Intangible": "nil"
+    },
+    {
+      "Task No": "21.2",
+      "Name": "Obtain Precise geographical locations of berths ships in harbour",
+      "Desc": "Obtain Precise geographical locations of berths ships in harbour",
+      "description": "Obtain Precise geographical locations of berths ships in harbour",
+      "Task Name": "Obtain Precise geographical locations of berths ships in harbour",
+      "DP No": "21",
+      "dp_no": "21"
+    },
+    {
+      "Task No": "21.3",
+      "Name": "MV Peng to undertake LM strikes on ships in Karwar Harbour",
+      "Desc": "MV Peng to undertake LM strikes on ships in Karwar Harbour",
+      "description": "MV Peng to undertake LM strikes on ships in Karwar Harbour",
+      "Task Name": "MV Peng to undertake LM strikes on ships in Karwar Harbour",
+      "DP No": "21",
+      "dp_no": "21"
+    },
+    {
+      "Task No": "22.1",
+      "Name": "Cyber-attacks on ISRO hub",
+      "Desc": "Cyber-attacks on ISRO hub",
+      "description": "Cyber-attacks on ISRO hub",
+      "Task Name": "Cyber-attacks on ISRO hub",
+      "DP No": "22",
+      "dp_no": "22"
+    },
+    {
+      "Task No": "22.2",
+      "Name": "Attack the Air Gap to weaken cyber security",
+      "Desc": "Attack the Air Gap to weaken cyber security",
+      "description": "Attack the Air Gap to weaken cyber security",
+      "Task Name": "Attack the Air Gap to weaken cyber security",
+      "DP No": "22",
+      "dp_no": "22"
+    },
+    {
+      "Task No": "22.3",
+      "Name": "Hack/ weaken firewalls, IDS/IPS, endpoint protection",
+      "Desc": "Hack/ weaken firewalls, IDS/IPS, endpoint protection",
+      "description": "Hack/ weaken firewalls, IDS/IPS, endpoint protection",
+      "Task Name": "Hack/ weaken firewalls, IDS/IPS, endpoint protection",
+      "DP No": "22",
+      "dp_no": "22"
+    },
+    {
+      "Task No": "22.4",
+      "Name": "Cyber-attacks on ISTRAC and BLUE ground stations",
+      "Desc": "Cyber-attacks on ISTRAC and BLUE ground stations",
+      "description": "Cyber-attacks on ISTRAC and BLUE ground stations",
+      "Task Name": "Cyber-attacks on ISTRAC and BLUE ground stations",
+      "DP No": "22",
+      "dp_no": "22"
+    },
+    {
+      "Task No": "22.5",
+      "Name": "Cyber Disruption of BLUE DIPAC, NRSC Ground station, Cuttack and ISTRAC/ISRO Network, Hosur.",
+      "Desc": "Cyber Disruption of BLUE DIPAC, NRSC Ground station, Cuttack and ISTRAC/ISRO Network, Hosur.",
+      "description": "Cyber Disruption of BLUE DIPAC, NRSC Ground station, Cuttack and ISTRAC/ISRO Network, Hosur.",
+      "Task Name": "Cyber Disruption of BLUE DIPAC, NRSC Ground station, Cuttack and ISTRAC/ISRO Network, Hosur.",
+      "DP No": "22",
+      "dp_no": "22"
+    },
+    {
+      "Task No": "25.1",
+      "Name": "Deployment of ASW platforms off Karachi",
+      "Desc": "Deployment of ASW platforms off Karachi",
+      "description": "Deployment of ASW platforms off Karachi",
+      "Task Name": "Deployment of ASW platforms off Karachi",
+      "DP No": "25",
+      "dp_no": "25"
+    },
+    {
+      "Task No": "25.2",
+      "Name": "ASW sanitisation by Air ASW assets to detect Blue S/Ms",
+      "Desc": "ASW sanitisation by Air ASW assets to detect Blue S/Ms",
+      "description": "ASW sanitisation by Air ASW assets to detect Blue S/Ms",
+      "Task Name": "ASW sanitisation by Air ASW assets to detect Blue S/Ms",
+      "DP No": "25",
+      "dp_no": "25"
+    },
+    {
+      "Task No": "25.3",
+      "Name": "Robust naval defence of RED ODAs off Karachi",
+      "Desc": "Robust naval defence of RED ODAs off Karachi",
+      "description": "Robust naval defence of RED ODAs off Karachi",
+      "Task Name": "Robust naval defence of RED ODAs off Karachi",
+      "DP No": "25",
+      "dp_no": "25"
+    },
+    {
+      "Task No": "25.4",
+      "Name": "Enhance shallow-water ASW effort off Karachi and VA/VPS",
+      "Desc": "Enhance shallow-water ASW effort off Karachi and VA/VPS",
+      "description": "Enhance shallow-water ASW effort off Karachi and VA/VPS",
+      "Task Name": "Enhance shallow-water ASW effort off Karachi and VA/VPS",
+      "DP No": "25",
+      "dp_no": "25"
+    },
+    {
+      "Task No": "25.5",
+      "Name": "Replenishment of coastal assets by Coastal tankers",
+      "Desc": "Replenishment of coastal assets by Coastal tankers",
+      "description": "Replenishment of coastal assets by Coastal tankers",
+      "Task Name": "Replenishment of coastal assets by Coastal tankers",
+      "DP No": "25",
+      "dp_no": "25"
+    },
+    {
+      "Task No": "25.6",
+      "Name": "Coordinate with security forces for strict identity checks around Red Naval bases VA/ VPS",
+      "Desc": "Coordinate with security forces for strict identity checks around Red Naval bases VA/ VPS",
+      "description": "Coordinate with security forces for strict identity checks around Red Naval bases VA/ VPS",
+      "Task Name": "Coordinate with security forces for strict identity checks around Red Naval bases VA/ VPS",
+      "DP No": "25",
+      "dp_no": "25"
+    },
+    {
+      "Task No": "25.7",
+      "Name": "Ensure AD of own C4ISR centres",
+      "Desc": "Ensure AD of own C4ISR centres",
+      "description": "Ensure AD of own C4ISR centres",
+      "Task Name": "Ensure AD of own C4ISR centres",
+      "DP No": "25",
+      "dp_no": "25"
+    },
+    {
+      "Task No": "25.8",
+      "Name": "Create Controlled approach routes and vehicle checkpoint with anti-ram barriers",
+      "Desc": "Create Controlled approach routes and vehicle checkpoint with anti-ram barriers",
+      "description": "Create Controlled approach routes and vehicle checkpoint with anti-ram barriers",
+      "Task Name": "Create Controlled approach routes and vehicle checkpoint with anti-ram barriers",
+      "DP No": "25",
+      "dp_no": "25"
+    },
+    {
+      "Task No": "25.9",
+      "Name": "Position radar/EO detection for low altitude threats and Position drone detection system",
+      "Desc": "Position radar/EO detection for low altitude threats and Position drone detection system",
+      "description": "Position radar/EO detection for low altitude threats and Position drone detection system",
+      "Task Name": "Position radar/EO detection for low altitude threats and Position drone detection system",
+      "DP No": "25",
+      "dp_no": "25"
+    },
+    {
+      "Task No": "25.1",
+      "Name": "Deploy Kinetic/Non-Kinetic counter UAS (jamming, RF capture, nets)",
+      "Desc": "Deploy Kinetic/Non-Kinetic counter UAS (jamming, RF capture, nets)",
+      "description": "Deploy Kinetic/Non-Kinetic counter UAS (jamming, RF capture, nets)",
+      "Task Name": "Deploy Kinetic/Non-Kinetic counter UAS (jamming, RF capture, nets)",
+      "DP No": "25",
+      "dp_no": "25"
+    }
+  ],
+  "ko": {},
+  "progress": {},
+  "control": {}
+}
